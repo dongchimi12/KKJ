@@ -1,0 +1,21 @@
+서울인구데이터:https://data.seoul.go.kr/dataList/10043/S/2/datasetView.do
+경기인구데이터: https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=HH7N68ZBMYNCB7QE9OY927342034&infSeq=1&order=&searchWord=%EC%9D%B8%EA%B5%AC#none
+강원인구데이터:http://data.gwd.go.kr/dataset/view?pageType=all&topSearch=&contentSearch=%EC%9D%B8%EA%B5%AC&tableId=list&pageNo=1&sortCol=Z1.DATA_REG_DTTM+DESC&mngOrganCodes=6420000&mngOrganCodes=42110&mngOrganCodes=42130&mngOrganCodes=42150&mngOrganCodes=42170&mngOrganCodes=42190&mngOrganCodes=42210&mngOrganCodes=42230&mngOrganCodes=42720&mngOrganCodes=42730&mngOrganCodes=42750&mngOrganCodes=42760&mngOrganCodes=42770&mngOrganCodes=42780&mngOrganCodes=42790&mngOrganCodes=42800&mngOrganCodes=42810&mngOrganCodes=42820&mngOrganCodes=42830&moiTypeCds=1000&moiTypeCds=1010&moiTypeCds=1020&moiTypeCds=1030&moiTypeCds=1040&moiTypeCds=1050&moiTypeCds=1060&moiTypeCds=1070&moiTypeCds=1080&moiTypeCds=1090&moiTypeCds=1100&moiTypeCds=1110&moiTypeCds=1120&moiTypeCds=1130&moiTypeCds=1150&moiTypeCds=1140&serviceTypes=sheetCnt&serviceTypes=chartCnt&serviceTypes=mapCnt&serviceTypes=fileCnt&serviceTypes=linkCnt&serviceTypes=openapiCnt&infId=OA-12941&viewType=sheet
+부산인구데이터:https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=3076607&contentId=10
+대구인구데이터:http://data.daegu.go.kr/open/data/dataView.do?dataSetId=3077757&dataSetDetailId=30777571b1e0ea51ec31&provdMethod=FILE
+인천인구데이터:https://www.data.go.kr/data/3075810/fileData.do
+광주인구데이터(동,서,북,광진구):https://bigdata.gwangju.go.kr/index.gwangju?startPage=1&menuCd=DOM_000000102005000000&strYear=&strMonth=&searchTp=1&searchGu=
+대전이구데이터(서구):https://www.daejeon.go.kr/pubc/publicDataPortalList.do?menuSeq=5147
+울산인구데이터(남구):https://data.ulsan.go.kr/user/apimng/dataset/totalView.ulsan?searchCondition=REG_TITLE&postSearch=%EC%9D%B8%EA%B5%AC&searchRegGroup=&apiRegSid=867&regType=&orderField=VIEW_COUNT&orderSort=DESC&menuCd=DOM_000000101005000000&pageIndex=1&regGroupArr=&offerInstArr=
+충청북도인구데이터:https://www.chungbuk.go.kr/www/publicCbdataView.do?key=302&sc_type=FILE&publicDataId=895&sc_offerer=&sc_subject=&sw=%EC%9D%B8%EA%B5%AC
+전북인구데이터:https://www.bigdatahub.go.kr/index.jeonbuk
+전남인구데이터(알집압축풀고, 인구데이터의 시트3-3참고):https://www.jeonnam.go.kr/M4687/boardView.do?seq=1890193&infoReturn=&menuId=jeonnam0508090000&displayHeader=&searchType=&searchText=&pageIndex=1&boardId=M4687&displayHeader=
+경북인구데이터(1-2시트):https://www.gb.go.kr/open_content/stat/page.jsp?menucmd=&LARGE_CODE=870&MEDIUM_CODE=40&SMALL_CODE=10&SMALL_CODE2=20&SMALL_NAME2=&SMALL_CODE3=&SMALL_NAME3=&dept_code=&dept_name=&target=main&show_4depth_navi=&url=&menu_code=&menu_name=&menu_code2=&menu_name2=&URL=/open_content/stat/pages/sub4_s2.jsp&BD_CODE=kb_jumin&bdName=&silguk=&cmd=2&Start=0&B_NUM=79876101&B_STEP=79876100&B_LEVEL=0&key=0&word=&p1=0&p2=0&V_NUM=213
+경남인구데이터:https://kosis.kr/statHtml/statHtml.do?orgId=217&tblId=DT_217F2010F00016&lang_mode=ko&vw_cd=MT_OTITLE&list_id=217_21711&conn_path=I4
+제주인구데이터:https://www.jejudatahub.net/data/view/data/549
+세종인구데이터:https://www.sejong.go.kr/stat/stats/form.do?key=1910168795224#none
+충남인구데이터:http://www.chungnam.go.kr:8100/cnnet/content.do?mnu_cd=CNNMENU02454
+ (충남 천안시데이터):https://www.cheonan.go.kr/cop/bbs/BBSMSTR_000000001101/selectBoardArticle.do?nttId=B00000287813sl4fN2ff8br1&kind=&mno=sitemap_12&pageIndex=1&searchCnd=&searchWrd=
+자치구단위 서울생활인구(유동) : http://data.seoul.go.kr/dataList/OA-15439/S/1/datasetView.do
+행정구별 지역코드 데이터: http://data.seoul.go.kr/dataList/OA-2735/S/1/datasetView.do
+운동이용률데이터: https://data.seoul.go.kr/dataList/10279/S/2/datasetView.do
